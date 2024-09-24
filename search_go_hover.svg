@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>Search</title>
+    <g id="Search" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="01-homepage-search-Filled" transform="translate(-1224.000000, -82.000000)">
+            <g id="Group-4" transform="translate(1160.000000, 79.000000)">
+                <g id="go_hover" transform="translate(64.000000, 3.000000)">
+                    <g id="Group-6">
+                        <path d="M12,0.8136 C5.8336,0.8136 0.8136,5.8328 0.8136,12 C0.8136,18.1664 5.8336,23.1864 12,23.1864 C18.1672,23.1864 23.1864,18.1664 23.1864,12 C23.1864,5.8328 18.1672,0.8136 12,0.8136" id="Fill-9" fill="#739ABC"></path>
+                        <path d="M15.1998,12.2006 L11.1334,8.1254 C10.9662,7.9582 10.6926,7.9582 10.5254,8.1254 C10.3582,8.2934 10.3582,8.5678 10.5254,8.735 L13.9862,12.2014 L10.5278,15.667 C10.3606,15.8358 10.3606,16.1062 10.5278,16.2742 C10.6118,16.3582 10.7198,16.3998 10.8294,16.3998 C10.9382,16.3998 11.0494,16.3582 11.1334,16.2742 L15.1998,12.2006 Z" id="Fill-10" fill="#FFFFFF"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

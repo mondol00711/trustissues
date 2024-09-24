@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="25px" height="26px" viewBox="0 0 25 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55 (78076) - https://sketchapp.com -->
+    <title>minus-circle-hover</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="footer" transform="translate(-456.000000, -316.000000)" fill="#857363" fill-rule="nonzero">
+            <g id="minus-circle-hover" transform="translate(456.000000, 316.100000)">
+                <path d="M25,12.5 C25,19.4035594 19.4035594,25 12.5,25 C5.59644063,25 3.55271368e-15,19.4035594 1.77635684e-15,12.5 C-3.94430453e-31,5.59644063 5.59644063,3.55271368e-15 12.5,1.77635684e-15 C19.4035594,1.77635684e-15 25,5.59644063 25,12.5 Z M6.653,13.407 L18.347,13.407 C18.6767917,13.4032182 18.9432182,13.1367917 18.947,12.807 L18.947,12.207 C18.9432182,11.8772083 18.6767917,11.6107818 18.347,11.607 L6.653,11.607 C6.32320831,11.6107818 6.05678177,11.8772083 6.053,12.207 L6.053,12.807 C6.05678177,13.1367917 6.32320831,13.4032182 6.653,13.407 Z"></path>
+            </g>
+        </g>
+    </g>
+</svg>
